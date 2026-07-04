@@ -1,9 +1,9 @@
 ![noelleputra](images/banner.png)
 
 ## Current Hyperfixations
-📦 **Modular IoT System:** I'm currently designing a flexible and modular IoT concept so it's easy to assemble and disassemble.
- 🎮 **Client-Side Modding & Automation:** Experiments with light *reverse engineering*, modifying the game's mechanics on the client side, and integrating a custom UI.
-🧠 **Dataset Tuning:** Just for fun, I'm learning how to build a *human-like* dataset for an interactive AI persona project.
+- 📦 **Modular IoT System:** I'm currently designing a flexible and modular IoT concept so it's easy to assemble and disassemble.
+ - 🎮 **Client-Side Modding & Automation:** Experiments with light *reverse engineering*, modifying the game's mechanics on the client side, and integrating a custom UI.
+- 🧠 **Dataset Tuning:** Just for fun, I'm learning how to build a *human-like* dataset for an interactive AI persona project.
 
 ###### "I don’t know all of the tools listed below by heart. With some of them, I often find myself opening the documentation every five minutes, but the important thing is: I get the job done and I know how to use them"
 
