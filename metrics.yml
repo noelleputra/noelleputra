@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Berjalan otomatis setiap 12 jam
+  schedule: [{cron: "0 */12 * * *"}]
+  # Mengizinkan Anda menjalankan workflow ini secara manual dari tab Actions
+  workflow_dispatch:
+  # Berjalan otomatis setiap ada push di branch main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Menggunakan token yang sudah disimpan di Settings tadi
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Konfigurasi Tampilan Utama
+          user: username-anda # Ganti dengan username GitHub Anda
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta # Sesuaikan timezone Anda
+
+          # Tambahkan plugin lencana (Badges) di bawah ini
+          plugin_badges: yes
+          plugin_badges_skills: yes
