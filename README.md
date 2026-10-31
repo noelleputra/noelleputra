@@ -6,7 +6,7 @@
 - **Dataset Tuning:** Just for fun, I'm learning how to build a *human-like* dataset for an interactive AI persona project.
 - **Minecraft Server** Economy-Handling, Content Balancing, PVP PVE Balancing
 
-(PREVIOUSLY WORKING IN TAMAN BHINNEKA)
+(PREVIOUSLY WORKING IN WEBSITE TAMAN BHINNEKA - UNIVERSITAS GADJAH MADA)
 
 ###### アイ ドント ノウ オール オブ ザ ツールズ リステッド ビロー バイ ハート。 ウィズ サム オブ ゼム、 アイ オフン ファインド マイセルフ オープニング ザ ドキュメンテーション エヴリ ファイヴ ミニッツ、 バット ザ インポータント スィング イズ: アイ ゲット ザ ジョブ ダン アンド アイ ノウ ハウ トゥ ユーズ ゼム!
 
